@@ -1,0 +1,43 @@
+# Extracting and Visualizing Stock Data
+
+### Author
+**Idir Sid Mohand**
+
+---
+
+### 📘 Project Overview
+This project is part of the IBM Data Science Professional Certificate on Coursera.  
+It demonstrates how to **extract, clean, and visualize stock and revenue data** for **Tesla (TSLA)** and **GameStop (GME)** using:
+- **yfinance** for stock price data  
+- **BeautifulSoup** for web scraping revenue tables  
+- **Plotly** for interactive visualizations  
+
+---
+
+### 🧰 Tools & Libraries Used
+- Python  
+- Pandas  
+- yfinance  
+- BeautifulSoup  
+- Plotly  
+- Requests  
+
+---
+
+### 📊 Key Steps
+1. Extract stock data using **yfinance API**  
+2. Scrape quarterly revenue data using **BeautifulSoup**  
+3. Clean and prepare data using **pandas**  
+4. Visualize the data interactively with **Plotly**
+
+---
+
+### 🖼️ Results
+Two interactive graphs are generated:
+- Tesla Stock and Revenue  
+- GameStop Stock and Revenue  
+
+---
+
+### 💬 About the Author
+Idir Sid Mohand — MSc International Business student passionate about data analysis, business intelligence, and technology-driven decision-making.
